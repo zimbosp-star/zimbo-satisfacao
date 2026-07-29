@@ -1,0 +1,8 @@
+Coloque o arquivo do logotipo oficial do Zimbo Supermercado nesta pasta
+com o nome exato "logo.png" (ex.: public/logo.png).
+
+O site já está preparado para carregar automaticamente esse arquivo no
+topo da página inicial. Se o arquivo não existir, o site mostra um texto
+"Zimbo Supermercado" no lugar, sem quebrar nada.
+
+Depois de adicionar o logo.png, você pode apagar este arquivo de texto.
